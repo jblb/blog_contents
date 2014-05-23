@@ -29,5 +29,6 @@ et puis tout ce dont j'ai envie de parler, car après tout c'est MON blog !
 
 Une autre raison qui me pousse c'est aussi m'obliger à documenter certains projets que je porte, afin de *laisser une trace* pour moi-même et pour les autres, sait-on jamais, peut-être que ce que je vais raconter va en intéresser d'autres ...
 
-ps: Merci a Feedoo pour la relecture/correction
+ps: Merci a [Feedoo] pour la relecture/correction
+[Feedoo]: http://fredblain.org/
 [google]: https://duckduckgo.com/ 
